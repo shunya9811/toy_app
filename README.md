@@ -12,6 +12,8 @@
 <!-- ![旧：Codespaces のサンプル画面](https://i.gyazo.com/af23bec87ce2b3d79613e16883700ecf.png) -->
 
 <br>
+## Demo
+https://railstutorial-toy-4ylo.onrender.com/users
 
 ## 拡張機能について
 より良い学習体験に繋げるため、本テンプレートには以下の VS Code 拡張機能がデフォルトで入っています。
